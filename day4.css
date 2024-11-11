@@ -1,0 +1,16 @@
+h1{
+    color: aqua;
+    margin-top: 10px;
+}
+.manish{
+    height: 200px;
+    width: 200px;
+    border: 10px dotted white;
+}
+.rose{
+    height: 100px;
+    width: 100px;
+    margin-left: -200px;
+    margin-bottom: 100px;
+
+}
